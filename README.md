@@ -4,6 +4,8 @@ Tämä projekti on **Flappy Bird -pelin klooni**, joka on toteutettu **Pythonill
 
 Projekti on tehty harjoitusmielessä ja keskittyy pelisilmukan, törmäystunnistuksen, spritejen ja peruspelimekaniikkojen opetteluun.
 
+<img src="Flappy.png" width="50%">
+
 ---
 
 ##  Pelin ominaisuudet
@@ -25,5 +27,6 @@ Projekti on tehty harjoitusmielessä ja keskittyy pelisilmukan, törmäystunnist
 - Objektiorientoitu ohjelmointi (luokat: Bird, Pipe, Button)
 
 ---
+
 
 
